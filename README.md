@@ -1,6 +1,8 @@
 # Movie Playlist Generator
 
-![add screen shot here]()
+[Movie Playlist Generator on Github Pages](https://lewisbrignell.github.io/moviePlaylistGenerator/)
+
+![add screen shot here](screen-shot.png)
 
 ## What is it?
 
