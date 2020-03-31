@@ -2,7 +2,7 @@
 
 [Movie Playlist Generator on Github Pages](https://lewisbrignell.github.io/moviePlaylistGenerator/)
 
-![add screen shot here](screen-shot.png)
+![screen shot of the project](screen-shot.png)
 
 ## What is it?
 
